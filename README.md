@@ -17,14 +17,8 @@ This is a console-based Java E-Commerce application where users can:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Prashantnarale/Java-Ecommerce-Console.git
-Compile the project:
-
-bash
-javac project.java
-Run the project:
-
-bash
-java project
+Compile the project: javac project.java
+Run the project: java project
 📌 Author
 Prashant Narale
 GitHub: Prashantnarale
